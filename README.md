@@ -1,63 +1,74 @@
-<!-- Profile README for: Venkata Srikar Manikonda -->
+<!-- Dark Futuristic Profile README for: Venkata Srikar Manikonda -->
 
-<h1 align="center">Hi, I'm Venkata Srikar Manikonda 👋</h1>
-
-<h3 align="center">Data Scientist | AI & Analytics</h3>
-
+<!-- 🔹 Top Banner (Gradient + Tech Vibe) -->
 <p align="center">
-  Passionate Data Scientist specializing in AI-driven analytics, scalable data solutions, and intelligent modeling to solve real-world problems.
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:1e40af,100:0f172a&height=200&section=header&text=Venkata%20Srikar%20Manikonda&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Scientist%20%7C%20AI%20%26%20Analytics&descAlignY=60&descAlign=50" alt="header banner"/>
+</p>
+
+<!-- 🔹 Typing Animation Subheader -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=AI-Driven+Data+Scientist;Machine+Learning+%7C+Analytics+%7C+MLOps;Transforming+data+into+intelligent+products" alt="Typing SVG" />
+  </a>
+</p>
+
+<!-- 🔹 Social & Contact Badges -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/srikar-manikonda" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Srikar%20Manikonda-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:srikarmanikonda4@gmail.com">
+    <img src="https://img.shields.io/badge/Email-srikarmanikonda4%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://your-resume-link" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-View-22c55e?style=for-the-badge&logo=readme&logoColor=white" alt="Resume">
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/srikar-manikonda" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Srikar%20Manikonda-blue?logo=linkedin" alt="LinkedIn">
-  </a>
-  <a href="mailto:srikarmanikonda4@gmail.com">
-    <img src="https://img.shields.io/badge/Email-srikarmanikonda4%40gmail.com-red?logo=gmail" alt="Email">
-  </a>
-  <a href="https://your-resume-link" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-View-green" alt="Resume">
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=MSrikar7&label=Profile%20Views&color=38bdf8&style=flat-square" alt="profile views" />
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🎯 **Data Scientist** with **1.5+ years** of experience and **1.5 years** as a **Data Analyst Intern (Evolv Technologies)**  
-- 🧠 Focused on **machine learning, data analytics, AI-driven systems, and scalable data pipelines**
-- 🧪 Experienced with **academic research** in **GANs, transfer learning, and medical imaging**
-- 🤝 Enjoy collaborating with cross-functional teams and translating data insights into business impact
-- 🌱 Always learning more about **MLOps, model deployment, and production-grade AI systems**
+> Passionate Data Scientist specializing in AI-driven analytics, scalable data solutions, and intelligent modeling to solve real-world problems.
+
+- 🎯 **Data Scientist** with **1.5+ years** experience + **1.5 years** as **Data Analyst Intern @ Evolv Technologies**
+- 🧠 Focus on **Machine Learning, Analytics, AI systems, and data pipelines**
+- 🧪 Strong **research background** in **GANs, transfer learning, and medical imaging**
+- 🧩 Blend of **ML, statistics, software engineering, and dashboards**
+- 🌱 Exploring **MLOps, model deployment, and production-grade AI/LLM systems**
 
 ---
 
 ## 🛠 Tech Stack
 
-### 💻 Programming & Core Languages
-- **Python**, **SQL**, **Java**, **JavaScript**
+<div align="center">
+
+### 💻 Languages
+`Python` • `SQL` • `Java` • `JavaScript`
 
 ### 🧠 Machine Learning & Data Science
-- **Exploratory Data Analysis (EDA)**, **Feature Engineering**, **Statistical Analysis**  
-- **Predictive Modeling**, **Model Evaluation**, **Time Series Forecasting**
+`EDA` • `Feature Engineering` • `Statistical Analysis` • `Predictive Modeling` • `Model Evaluation` • `Time Series Forecasting`
 
 ### 📚 ML Libraries & Frameworks
-- **pandas**, **NumPy**, **scikit-learn**, **TensorFlow**, **PyTorch**
+`pandas` • `NumPy` • `scikit-learn` • `TensorFlow` • `PyTorch`
 
-### 🧩 Backend, Systems & Architecture
-- **REST APIs**, **Microservices**, **System Design**  
-- **Authentication** (OAuth, JWT)
+### 🧩 Backend & Systems
+`REST APIs` • `Microservices` • `System Design` • `OAuth` • `JWT`
 
 ### 🗄 Databases & Cloud
-- **MySQL**, **PostgreSQL**, **MongoDB**  
-- **AWS**, **Azure**, **GCP**
+`MySQL` • `PostgreSQL` • `MongoDB` • `AWS` • `Azure` • `GCP`
 
 ### 🔧 Tools & MLOps
-- **Git & GitHub**, **Docker**, **CI/CD**, **Linux**  
-- **ML Pipelines**, **Model Deployment**
+`Git` • `GitHub` • `Docker` • `CI/CD` • `Linux` • `ML Pipelines` • `Model Deployment`
 
 ### 📊 Visualization & BI
-- **Power BI**, **Tableau**, **Matplotlib**, **Seaborn**
+`Power BI` • `Tableau` • `Matplotlib` • `Seaborn`
+
+</div>
 
 ---
 
@@ -66,65 +77,62 @@
 ### 1️⃣ Latent Image Animator (LIA) — Deep Learning for Facial Animation
 
 **Type:** Academic Project  
-**Brief:** Developed a neural animation model that generates realistic facial motion from static images using latent representation learning and generative architectures.
+**Goal:** Generate realistic facial motion from a single static image using latent-space animation.
 
-**What I did:**
-- Designed a **deep learning pipeline** for animating faces from single images using **latent space motion transfer**
-- Used **CNNs** for facial feature extraction and **generative models (GAN-like architectures)** for realistic frame synthesis
+**Highlights:**
+- Designed an **end-to-end deep learning pipeline** for face animation using **latent motion transfer**
+- Used **CNNs** for robust facial feature extraction and **generative architectures (GAN-style)** for frame synthesis
 - Implemented **GPU-backed training workflows** to speed up experimentation and improve animation coherence
-- Experimented with **temporal consistency** techniques to reduce flickering and maintain identity across frames
-- Evaluated output using **visual quality checks** and reconstruction consistency across generated sequences
+- Focused on **temporal consistency**, reducing flicker and preserving identity across frames
+- Evaluated animations via qualitative inspection and structural consistency across generated video sequences
 
 **Tech Stack:**
 - Python, PyTorch / TensorFlow  
 - OpenCV, NumPy, pandas  
-- GPU environment (e.g., CUDA), Jupyter Notebooks  
+- CUDA-enabled GPU, Jupyter Notebooks  
 
 ---
 
-### 2️⃣ AI Study Buddy Website — Real-Time AI Study Assistant (Local LLM)
+### 2️⃣ AI Study Buddy — Real-Time AI Web App with Local LLM
 
 **Type:** Academic / Personal Project  
-**Brief:** Built a web-based **AI-powered study assistant** that uses a **local LLM** to support interactive question answering, explanations, and learning workflows.
+**Goal:** Build a web-based **AI-powered study assistant** using a **local LLM** to support interactive learning.
 
-**What I did:**
-- Designed and implemented a **modular backend architecture** to integrate a **local LLM** (e.g., Ollama / GPT4All / Mistral-style) for real-time responses
-- Built REST endpoints for:
+**Highlights:**
+- Architected a **modular backend** that integrates a **local LLM** (Ollama / GPT4All / similar) for:
   - Question answering  
-  - Context-based suggestions  
-  - Session-based conversations  
-- Implemented **frontend UI** to allow students to:
-  - Ask questions in natural language  
-  - Receive explanations, summaries, and clarifications  
-  - Interact with the assistant in a chat-like interface
-- Structured the system to easily extend with:
-  - **Personalization and recommendation systems**
-  - **Topic-wise progress tracking**
-  - **Content recommendation for weak areas**
-- Focused on **latency, reliability, and scalability**, enabling local inference rather than relying on remote APIs
+  - Explanations & summaries  
+  - Session-based conversation
+- Exposed functionality via **REST APIs** and designed a UI that mimics a **chat-based learning assistant**
+- Engineered the system for:
+  - **Low-latency inference** (local instead of remote API)
+  - Future addition of **personalized recommendation systems**
+  - Support for **topic-wise tracking and weak-area suggestions**
+- Structured the backend to be **deployment-ready** on local or cloud infrastructure, with focus on observability and extensibility
 
 **Tech Stack:**
 - Backend: Python (FastAPI / Flask), REST APIs  
-- LLM: Local model (Ollama / GPT4All / similar)  
-- Frontend: JavaScript, HTML/CSS (or React, if used)  
-- Tools: GitHub, Docker (for containerization), Linux  
-- Deployment-ready design for local or cloud-hosted environments  
+- LLM: Local models (e.g., Ollama / GPT4All style)  
+- Frontend: JavaScript, HTML/CSS (or React if implemented)  
+- Tools: GitHub, Docker, Linux  
+
+> 💡 Future extensions: Add a short screen-recorded **GIF demo** of your UI and embed it here.
 
 ---
 
 ### 3️⃣ Student Performance Analysis — Predictive Analytics & Insights
 
 **Type:** Academic Project  
-**Brief:** Analyzed student academic data to understand factors influencing performance and built predictive models to identify at-risk students.
+**Goal:** Use analytics and ML to understand which factors influence student performance and identify at-risk students.
 
-**What I did:**
-- Collected and cleaned student data including **attendance, scores, behavior, and demographic variables**
-- Performed **EDA** to identify patterns, outliers, and correlations between features and performance
-- Built **classification/regression models** (e.g., logistic regression, random forests, gradient boosting) to:
-  - Predict performance bands
-  - Identify at-risk students
-- Used **feature importance** and **model interpretation** techniques to highlight key drivers of performance
-- Created **visual dashboards** and plots to communicate findings to non-technical stakeholders
+**Highlights:**
+- Collected and cleaned student data (attendance, scores, behavior, demographics)
+- Performed **EDA** to uncover patterns, trends, and correlations in performance
+- Built **classification/regression models** (logistic regression, random forest, gradient boosting) to:
+  - Predict performance levels  
+  - Flag at-risk students
+- Used **feature importance** and interpretability techniques to identify key performance drivers
+- Created **visualizations and dashboards** to present insights to non-technical audiences (faculty/administration)
 
 **Tech Stack:**
 - Python, pandas, NumPy  
@@ -136,30 +144,32 @@
 ## 📚 Research & Publications
 
 ### 📌 Gastric Carcinoma Detection using Hybrid Model based Transfer Learning  
+
 **Journal:** International Journal of Scientific Research in Engineering and Management (IJSREM)  
 **Date:** June 6, 2023  
 **Link:** https://ijsrem.com/download/gastric-carinoma-detection-using-hybrid-model-based-tl/
 
 **Summary:**
-- Developed a **hybrid deep learning model** for early detection of **gastric carcinoma** using medical images  
-- Leveraged **pre-trained CNNs** and **transfer learning** for robust feature extraction  
-- Applied **advanced preprocessing and data augmentation** to improve generalization and reduce overfitting  
-- Evaluated performance using **accuracy, AUC-ROC, and cross-validation metrics**  
-- Demonstrated how AI can support **early cancer diagnosis and clinical decision-making**
+- Designed a **hybrid deep learning system** for early detection of gastric carcinoma using medical imaging
+- Leveraged **pre-trained CNNs and transfer learning** for robust feature extraction
+- Applied advanced **image preprocessing and data augmentation** to improve robustness and generalization
+- Evaluated the model using **accuracy, AUC-ROC, and cross-validation**, demonstrating strong predictive performance
+- Showcased how **AI can assist early diagnosis and support clinical decision-making**
 
 ---
 
 ### 📌 3D Face Modelling of Human Faces using GANs  
+
 **Journal:** International Research Journal of Engineering and Technology (IRJET)  
 **Date:** August 8, 2022  
 **Link:** https://www.irjet.net/archives/V9/i8/IRJET-V9I841.pdf
 
 **Summary:**
-- Proposed a **GAN-based framework** to generate realistic **3D human face models** from limited 2D facial data  
-- Integrated **CNN-based feature extraction** with **generative adversarial networks** to capture identity-specific facial structure  
-- Evaluated models using **Inception Score, reconstruction error, and classification accuracy** on image/video datasets  
-- Achieved improvements in **realism, identity preservation, and structural consistency** compared to traditional CNN/RNN approaches  
-- Showcased the potential of **generative AI** in advanced **computer vision** applications
+- Proposed a **GAN-based framework** to generate realistic **3D face models** from limited 2D data
+- Combined **CNN-based feature extraction** with **generative adversarial networks** to preserve identity and structure
+- Evaluated quality using **Inception Score, reconstruction error, and classification accuracy**
+- Achieved better **realism, identity preservation, and structural consistency** than traditional CNN/RNN approaches
+- Demonstrated the potential of **generative AI** in advanced **computer vision** applications
 
 ---
 
@@ -168,34 +178,34 @@
 ### 🧪 Data Scientist — Inmar Intelligence  
 **Oct 2023 – Jul 2024**
 
-- Worked on **data-driven analytics projects** using large-scale business and consumer datasets to support decision-making.  
-- Cleaned, preprocessed, and transformed **structured data** using **Python (pandas, NumPy)** and **SQL** to uncover trends and anomalies.  
-- Developed and evaluated **machine learning models** (classification and regression) to improve prediction accuracy and support business use cases.  
-- Designed **data visualizations and dashboards** (Power BI / Tableau / Matplotlib / Seaborn) to communicate insights to technical and non-technical stakeholders.  
-- Contributed to **end-to-end analytics pipelines**, integrating data ingestion, feature engineering, modeling, and evaluation to support scalable data products.
+- Worked on **data-driven analytics projects** using large-scale business and consumer datasets to support decision-making  
+- Cleaned, preprocessed, and transformed **structured data** using **Python (pandas, NumPy)** and **SQL** to uncover trends and anomalies  
+- Developed and evaluated **machine learning models** (classification and regression) to improve prediction accuracy for business use cases  
+- Designed **dashboards and visualizations** (Power BI / Tableau / Matplotlib / Seaborn) to communicate insights clearly to stakeholders  
+- Contributed to **end-to-end analytics pipelines**, integrating ingestion, feature engineering, modeling, and evaluation for scalable data products  
 
 ---
 
 ### 📊 Data Analyst Intern — Evolv Technologies  
 **May 2022 – Oct 2023**
 
-- Gathered, cleaned, and validated data from multiple internal systems to ensure **high-quality, analysis-ready datasets**.  
-- Developed and optimized **SQL queries** for data extraction, transformation, and aggregation to support reports and analytics.  
-- Performed **exploratory data analysis (EDA)** and descriptive statistics to uncover patterns, trends, and anomalies in customer and operational data.  
-- Built **interactive dashboards and reports** in **Power BI / Tableau**, enabling stakeholders to track KPIs and monitor business performance.  
-- Collaborated with Data Scientists and Engineers to **prepare feature-rich datasets** for machine learning and advanced analytics initiatives.  
-- Presented analytical findings through **clear visual summaries, charts, and presentations**, translating technical results into actionable business recommendations.
+- Gathered, cleaned, and validated data from multiple business systems to create **high-quality, analysis-ready datasets**  
+- Wrote and optimized **SQL queries** for data extraction, transformation, and aggregation to support reports and analytics  
+- Performed **exploratory data analysis (EDA)** and descriptive statistics to identify patterns, trends, and anomalies  
+- Built **interactive dashboards and reports** in **Power BI / Tableau**, enabling stakeholders to track KPIs and monitor performance  
+- Collaborated with Data Scientists and Engineers to prepare **feature-rich datasets** for ML and advanced analytics projects  
+- Communicated insights via **visual summaries, charts, and presentations**, turning technical findings into actionable business recommendations  
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MSrikar7&show_icons=true&theme=default&hide_border=false" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MSrikar7&show_icons=true&theme=tokyonight&hide_border=false" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MSrikar7&layout=compact&theme=default&hide_border=false" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MSrikar7&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
 </p>
 
 ---
@@ -204,6 +214,6 @@
 
 - 💼 LinkedIn: [www.linkedin.com/in/srikar-manikonda](https://www.linkedin.com/in/srikar-manikonda)  
 - ✉️ Email: **srikarmanikonda4@gmail.com**  
-- 📄 Resume: `Add your resume link here`  
+- 📄 Resume: `Add your resume link here once hosted (Google Drive / portfolio site)`  
 
-Thanks for stopping by! ⭐ Feel free to star or fork any repo that interests you.
+> ⭐ If you like my work, feel free to star or fork any repo — always happy to connect and collaborate!
