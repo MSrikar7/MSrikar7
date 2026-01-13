@@ -1,219 +1,436 @@
-<!-- Dark Futuristic Profile README for: Venkata Srikar Manikonda -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Venkata Srikar Manikonda | Data Scientist</title>
+  <link rel="stylesheet" href="styles.css" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link
+    href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap"
+    rel="stylesheet"
+  />
+</head>
+<body>
+  <!-- Top Navigation -->
+  <header class="site-header">
+    <div class="container nav-container">
+      <div class="logo">
+        <span class="logo-accent">S</span>rikar
+      </div>
+      <nav class="nav-links" id="navLinks">
+        <a href="#about">About</a>
+        <a href="#skills">Skills</a>
+        <a href="#projects">Projects</a>
+        <a href="#research">Research</a>
+        <a href="#experience">Experience</a>
+        <a href="#contact">Contact</a>
+      </nav>
+      <button class="nav-toggle" id="navToggle" aria-label="Toggle navigation">
+        ☰
+      </button>
+    </div>
+  </header>
 
-<!-- 🔹 Top Banner (Gradient + Tech Vibe) -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:1e40af,100:0f172a&height=200&section=header&text=Venkata%20Srikar%20Manikonda&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Scientist%20%7C%20AI%20%26%20Analytics&descAlignY=60&descAlign=50" alt="header banner"/>
-</p>
+  <!-- Hero Section -->
+  <section class="hero">
+    <div class="hero-overlay"></div>
+    <div class="container hero-content">
+      <div class="hero-text">
+        <p class="hero-tag">Data Science • AI • Analytics</p>
+        <h1>
+          Hi, I’m
+          <span class="gradient-text">Venkata Srikar Manikonda</span>
+        </h1>
+        <p class="hero-subtitle">
+          Data Scientist with 1.5+ years of experience and 1.5 years as a Data Analyst Intern at Evolv Technologies. I build
+          AI-driven analytics, predictive models, and scalable data solutions that turn raw data into intelligent products and
+          decisions.
+        </p>
+        <div class="hero-buttons">
+          <a href="#projects" class="btn primary-btn">View Projects</a>
+          <a href="#contact" class="btn outline-btn">Get in Touch</a>
+        </div>
+        <div class="hero-tags">
+          <span>Machine Learning</span>
+          <span>EDA & Analytics</span>
+          <span>LLMs & Local Inference</span>
+          <span>MLOps & Deployment</span>
+        </div>
+      </div>
+      <div class="hero-panel">
+        <div class="hero-card">
+          <p class="hero-card-label">Data Scientist</p>
+          <p class="hero-card-main">AI & Analytics</p>
+          <p class="hero-card-sub">ML • Data Pipelines • Insights</p>
+        </div>
+      </div>
+    </div>
+  </section>
 
-<!-- 🔹 Typing Animation Subheader -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=AI-Driven+Data+Scientist;Machine+Learning+%7C+Analytics+%7C+MLOps;Transforming+data+into+intelligent+products" alt="Typing SVG" />
-  </a>
-</p>
+  <!-- About -->
+  <section id="about" class="section">
+    <div class="container">
+      <h2 class="section-title">About Me</h2>
+      <div class="section-body">
+        <p>
+          I’m a <strong>Data Scientist</strong> with a blend of
+          <span class="highlight">machine learning, analytics, and software engineering</span>.
+          I have 1.5+ years of experience as a Data Scientist and 1.5 years as a Data Analyst Intern at Evolv Technologies,
+          working end-to-end across data cleaning, feature engineering, model development, evaluation, and insight communication.
+        </p>
+        <p>
+          My academic research explores
+          <span class="highlight">GANs, transfer learning, 3D face modelling, and medical imaging</span>.
+          I enjoy building systems that connect ML models with real users—whether it’s an AI study assistant powered by a local
+          LLM or analytics pipelines that drive data-informed strategies.
+        </p>
+      </div>
+    </div>
+  </section>
 
-<!-- 🔹 Social & Contact Badges -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/srikar-manikonda" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Srikar%20Manikonda-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:srikarmanikonda4@gmail.com">
-    <img src="https://img.shields.io/badge/Email-srikarmanikonda4%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://your-resume-link" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-View-22c55e?style=for-the-badge&logo=readme&logoColor=white" alt="Resume">
-  </a>
-</p>
+  <!-- Skills -->
+  <section id="skills" class="section alt-section">
+    <div class="container">
+      <h2 class="section-title">Skills</h2>
+      <div class="skills-grid">
+        <div class="card">
+          <h3>Languages</h3>
+          <div class="pill-row">
+            <span class="pill">Python</span>
+            <span class="pill">SQL</span>
+            <span class="pill">Java</span>
+            <span class="pill">JavaScript</span>
+          </div>
+        </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MSrikar7&label=Profile%20Views&color=38bdf8&style=flat-square" alt="profile views" />
-</p>
+        <div class="card">
+          <h3>ML & Data Science</h3>
+          <div class="pill-row">
+            <span class="pill">EDA</span>
+            <span class="pill">Feature Engineering</span>
+            <span class="pill">Statistical Analysis</span>
+            <span class="pill">Predictive Modeling</span>
+            <span class="pill">Model Evaluation</span>
+            <span class="pill">Time Series Forecasting</span>
+          </div>
+        </div>
 
----
+        <div class="card">
+          <h3>Libraries & Frameworks</h3>
+          <div class="pill-row">
+            <span class="pill">pandas</span>
+            <span class="pill">NumPy</span>
+            <span class="pill">scikit-learn</span>
+            <span class="pill">TensorFlow</span>
+            <span class="pill">PyTorch</span>
+          </div>
+        </div>
 
-## 🧑‍💻 About Me
+        <div class="card">
+          <h3>Backend & Systems</h3>
+          <div class="pill-row">
+            <span class="pill">REST APIs</span>
+            <span class="pill">Microservices</span>
+            <span class="pill">System Design</span>
+            <span class="pill">OAuth</span>
+            <span class="pill">JWT</span>
+          </div>
+        </div>
 
-> Passionate Data Scientist specializing in AI-driven analytics, scalable data solutions, and intelligent modeling to solve real-world problems.
+        <div class="card">
+          <h3>Databases & Cloud</h3>
+          <div class="pill-row">
+            <span class="pill">MySQL</span>
+            <span class="pill">PostgreSQL</span>
+            <span class="pill">MongoDB</span>
+            <span class="pill">AWS</span>
+            <span class="pill">Azure</span>
+            <span class="pill">GCP</span>
+          </div>
+        </div>
 
-- 🎯 **Data Scientist** with **1.5+ years** experience + **1.5 years** as **Data Analyst Intern @ Evolv Technologies**
-- 🧠 Focus on **Machine Learning, Analytics, AI systems, and data pipelines**
-- 🧪 Strong **research background** in **GANs, transfer learning, and medical imaging**
-- 🧩 Blend of **ML, statistics, software engineering, and dashboards**
-- 🌱 Exploring **MLOps, model deployment, and production-grade AI/LLM systems**
+        <div class="card">
+          <h3>Tools, MLOps & BI</h3>
+          <div class="pill-row">
+            <span class="pill">Git & GitHub</span>
+            <span class="pill">Docker</span>
+            <span class="pill">CI/CD</span>
+            <span class="pill">Linux</span>
+            <span class="pill">ML Pipelines</span>
+            <span class="pill">Model Deployment</span>
+            <span class="pill">Power BI</span>
+            <span class="pill">Tableau</span>
+            <span class="pill">Matplotlib</span>
+            <span class="pill">Seaborn</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
 
----
+  <!-- Projects -->
+  <section id="projects" class="section">
+    <div class="container">
+      <h2 class="section-title">Projects</h2>
+      <div class="card-grid">
+        <!-- Project 1 -->
+        <article class="card project-card">
+          <div class="card-header">
+            <h3>Latent Image Animator (LIA)</h3>
+            <span class="badge">Deep Learning • Generative Models</span>
+          </div>
+          <p class="card-subtitle">
+            Neural animation model that generates realistic facial motion from static images using latent representation learning
+            and motion transfer.
+          </p>
+          <ul class="card-list">
+            <li>Designed an end-to-end deep learning pipeline to animate faces from single images using latent motion transfer.</li>
+            <li>Used CNNs for facial feature extraction and GAN-style architectures for realistic frame synthesis.</li>
+            <li>Implemented GPU-backed training workflows to improve coherence and temporal consistency in the animations.</li>
+          </ul>
+          <div class="pill-row">
+            <span class="pill small">Python</span>
+            <span class="pill small">PyTorch / TensorFlow</span>
+            <span class="pill small">OpenCV</span>
+            <span class="pill small">NumPy</span>
+            <span class="pill small">pandas</span>
+            <span class="pill small">CUDA</span>
+            <span class="pill small">Jupyter</span>
+          </div>
+        </article>
 
-## 🛠 Tech Stack
+        <!-- Project 2 -->
+        <article class="card project-card">
+          <div class="card-header">
+            <h3>AI Study Buddy – Local LLM Web App</h3>
+            <span class="badge">LLM • Web App • Local Inference</span>
+          </div>
+          <p class="card-subtitle">
+            AI-powered study assistant that uses a locally hosted LLM to answer questions, explain concepts, and support interactive learning.
+          </p>
+          <ul class="card-list">
+            <li>
+              Architected a modular backend that integrates a local LLM (Ollama / GPT4All-style) for real-time question answering and explanations.
+            </li>
+            <li>Built REST endpoints and a chat-style interface for session-based study assistance.</li>
+            <li>
+              Designed the system for low-latency inference and future extension with personalization, recommendations, and topic-wise tracking.
+            </li>
+          </ul>
+          <div class="pill-row">
+            <span class="pill small">Python</span>
+            <span class="pill small">FastAPI / Flask</span>
+            <span class="pill small">Local LLM</span>
+            <span class="pill small">JavaScript</span>
+            <span class="pill small">HTML/CSS</span>
+            <span class="pill small">Docker</span>
+            <span class="pill small">Linux</span>
+          </div>
+        </article>
 
-<div align="center">
+        <!-- Project 3 -->
+        <article class="card project-card">
+          <div class="card-header">
+            <h3>Student Performance Analysis</h3>
+            <span class="badge">Analytics • Predictive Modeling</span>
+          </div>
+          <p class="card-subtitle">
+            Predictive analytics pipeline to understand factors influencing student performance and identify at-risk students.
+          </p>
+          <ul class="card-list">
+            <li>Performed EDA on academic and behavioral data to uncover patterns, trends, and correlations.</li>
+            <li>
+              Built classification and regression models (logistic regression, random forest, gradient boosting) to predict performance bands.
+            </li>
+            <li>Used feature importance and interpretability methods to communicate key performance drivers to stakeholders.</li>
+          </ul>
+          <div class="pill-row">
+            <span class="pill small">Python</span>
+            <span class="pill small">pandas</span>
+            <span class="pill small">NumPy</span>
+            <span class="pill small">scikit-learn</span>
+            <span class="pill small">Matplotlib</span>
+            <span class="pill small">Seaborn</span>
+            <span class="pill small">Jupyter</span>
+          </div>
+        </article>
+      </div>
+    </div>
+  </section>
 
-### 💻 Languages
-`Python` • `SQL` • `Java` • `JavaScript`
+  <!-- Research -->
+  <section id="research" class="section alt-section">
+    <div class="container">
+      <h2 class="section-title">Research & Publications</h2>
+      <div class="card-grid">
+        <article class="card">
+          <div class="card-header">
+            <h3>Gastric Carcinoma Detection using Hybrid Model based Transfer Learning</h3>
+          </div>
+          <p class="meta-text">
+            International Journal of Scientific Research in Engineering and Management (IJSREM) • June 6, 2023
+          </p>
+          <p class="card-subtitle">
+            Hybrid deep learning system for early detection of gastric carcinoma using medical imaging with transfer learning and
+            CNN-based feature extraction.
+          </p>
+          <ul class="card-list">
+            <li>Leveraged pre-trained CNNs and transfer learning for robust feature extraction from medical images.</li>
+            <li>Applied advanced preprocessing and data augmentation to improve robustness and generalization.</li>
+            <li>
+              Evaluated the model using accuracy, AUC-ROC, and cross-validation, demonstrating strong predictive performance for
+              early diagnosis.
+            </li>
+          </ul>
+          <div class="pill-row">
+            <span class="pill small">Transfer Learning</span>
+            <span class="pill small">Medical Imaging</span>
+            <span class="pill small">CNN</span>
+            <span class="pill small">Hybrid Deep Learning</span>
+          </div>
+          <a
+            href="https://ijsrem.com/download/gastric-carinoma-detection-using-hybrid-model-based-tl/"
+            target="_blank"
+            class="link-btn"
+          >
+            View Publication
+          </a>
+        </article>
 
-### 🧠 Machine Learning & Data Science
-`EDA` • `Feature Engineering` • `Statistical Analysis` • `Predictive Modeling` • `Model Evaluation` • `Time Series Forecasting`
+        <article class="card">
+          <div class="card-header">
+            <h3>3D Face Modelling of Human Faces using GANs</h3>
+          </div>
+          <p class="meta-text">
+            International Research Journal of Engineering and Technology (IRJET) • August 8, 2022
+          </p>
+          <p class="card-subtitle">
+            GAN-based framework to generate realistic 3D human face models from limited 2D data, improving realism and identity preservation.
+          </p>
+          <ul class="card-list">
+            <li>Combined CNN-based feature extraction with generative adversarial networks for 3D face reconstruction.</li>
+            <li>
+              Evaluated realism and structure with metrics like Inception Score, reconstruction error, and classification accuracy.
+            </li>
+            <li>Demonstrated the potential of generative AI in advanced computer vision applications.</li>
+          </ul>
+          <div class="pill-row">
+            <span class="pill small">GANs</span>
+            <span class="pill small">3D Modelling</span>
+            <span class="pill small">Computer Vision</span>
+            <span class="pill small">Generative AI</span>
+          </div>
+          <a
+            href="https://www.irjet.net/archives/V9/i8/IRJET-V9I841.pdf"
+            target="_blank"
+            class="link-btn"
+          >
+            View Publication
+          </a>
+        </article>
+      </div>
+    </div>
+  </section>
 
-### 📚 ML Libraries & Frameworks
-`pandas` • `NumPy` • `scikit-learn` • `TensorFlow` • `PyTorch`
+  <!-- Experience -->
+  <section id="experience" class="section">
+    <div class="container">
+      <h2 class="section-title">Experience</h2>
+      <div class="card-grid">
+        <article class="card">
+          <div class="card-header">
+            <h3>Data Scientist</h3>
+            <p class="meta-text">Inmar Intelligence • Oct 2023 – Jul 2024</p>
+          </div>
+          <ul class="card-list">
+            <li>
+              Worked on data-driven analytics projects using large-scale business and consumer datasets to support decision-making.
+            </li>
+            <li>
+              Cleaned, preprocessed, and transformed structured data using Python (pandas, NumPy) and SQL to uncover trends and anomalies.
+            </li>
+            <li>
+              Developed and evaluated machine learning models (classification and regression) to improve prediction accuracy for
+              business use cases.
+            </li>
+            <li>
+              Designed dashboards and visualizations (Power BI / Tableau / Matplotlib / Seaborn) to communicate insights to
+              technical and non-technical stakeholders.
+            </li>
+            <li>
+              Contributed to end-to-end analytics pipelines integrating ingestion, feature engineering, modeling, and evaluation.
+            </li>
+          </ul>
+        </article>
 
-### 🧩 Backend & Systems
-`REST APIs` • `Microservices` • `System Design` • `OAuth` • `JWT`
+        <article class="card">
+          <div class="card-header">
+            <h3>Data Analyst Intern</h3>
+            <p class="meta-text">Evolv Technologies • May 2022 – Oct 2023</p>
+          </div>
+          <ul class="card-list">
+            <li>
+              Gathered, cleaned, and validated data from multiple business systems to create high-quality, analysis-ready datasets.
+            </li>
+            <li>
+              Wrote and optimized SQL queries for data extraction, transformation, and aggregation to support reporting and analytics.
+            </li>
+            <li>
+              Performed exploratory data analysis (EDA) and descriptive statistics to identify patterns, trends, and anomalies.
+            </li>
+            <li>
+              Built interactive dashboards and reports in Power BI / Tableau to help stakeholders track KPIs and monitor performance.
+            </li>
+            <li>
+              Collaborated with Data Scientists and Engineers to prepare feature-rich datasets for machine learning and advanced
+              analytics projects.
+            </li>
+          </ul>
+        </article>
+      </div>
+    </div>
+  </section>
 
-### 🗄 Databases & Cloud
-`MySQL` • `PostgreSQL` • `MongoDB` • `AWS` • `Azure` • `GCP`
+  <!-- Contact -->
+  <section id="contact" class="section alt-section">
+    <div class="container contact-container">
+      <div>
+        <h2 class="section-title">Contact</h2>
+        <p class="section-body">
+          I’m open to opportunities in Data Science, Machine Learning, and Analytics.  
+          Happy to discuss projects, research, or collaborations.
+        </p>
+      </div>
+      <div class="contact-actions">
+        <a href="mailto:srikarmanikonda4@gmail.com" class="btn primary-btn">Email Me</a>
+        <a
+          href="https://www.linkedin.com/in/srikar-manikonda"
+          target="_blank"
+          class="btn outline-btn"
+        >
+          LinkedIn
+        </a>
+        <a
+          href="https://github.com/MSrikar7"
+          target="_blank"
+          class="btn ghost-btn"
+        >
+          GitHub
+        </a>
+      </div>
+    </div>
+  </section>
 
-### 🔧 Tools & MLOps
-`Git` • `GitHub` • `Docker` • `CI/CD` • `Linux` • `ML Pipelines` • `Model Deployment`
+  <!-- Footer -->
+  <footer class="footer">
+    <div class="container footer-inner">
+      <span>© 2025 Venkata Srikar Manikonda</span>
+      <span class="footer-dot">•</span>
+      <span>Built with HTML, CSS & JS</span>
+    </div>
+  </footer>
 
-### 📊 Visualization & BI
-`Power BI` • `Tableau` • `Matplotlib` • `Seaborn`
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-### 1️⃣ Latent Image Animator (LIA) — Deep Learning for Facial Animation
-
-**Type:** Academic Project  
-**Goal:** Generate realistic facial motion from a single static image using latent-space animation.
-
-**Highlights:**
-- Designed an **end-to-end deep learning pipeline** for face animation using **latent motion transfer**
-- Used **CNNs** for robust facial feature extraction and **generative architectures (GAN-style)** for frame synthesis
-- Implemented **GPU-backed training workflows** to speed up experimentation and improve animation coherence
-- Focused on **temporal consistency**, reducing flicker and preserving identity across frames
-- Evaluated animations via qualitative inspection and structural consistency across generated video sequences
-
-**Tech Stack:**
-- Python, PyTorch / TensorFlow  
-- OpenCV, NumPy, pandas  
-- CUDA-enabled GPU, Jupyter Notebooks  
-
----
-
-### 2️⃣ AI Study Buddy — Real-Time AI Web App with Local LLM
-
-**Type:** Academic / Personal Project  
-**Goal:** Build a web-based **AI-powered study assistant** using a **local LLM** to support interactive learning.
-
-**Highlights:**
-- Architected a **modular backend** that integrates a **local LLM** (Ollama / GPT4All / similar) for:
-  - Question answering  
-  - Explanations & summaries  
-  - Session-based conversation
-- Exposed functionality via **REST APIs** and designed a UI that mimics a **chat-based learning assistant**
-- Engineered the system for:
-  - **Low-latency inference** (local instead of remote API)
-  - Future addition of **personalized recommendation systems**
-  - Support for **topic-wise tracking and weak-area suggestions**
-- Structured the backend to be **deployment-ready** on local or cloud infrastructure, with focus on observability and extensibility
-
-**Tech Stack:**
-- Backend: Python (FastAPI / Flask), REST APIs  
-- LLM: Local models (e.g., Ollama / GPT4All style)  
-- Frontend: JavaScript, HTML/CSS (or React if implemented)  
-- Tools: GitHub, Docker, Linux  
-
-> 💡 Future extensions: Add a short screen-recorded **GIF demo** of your UI and embed it here.
-
----
-
-### 3️⃣ Student Performance Analysis — Predictive Analytics & Insights
-
-**Type:** Academic Project  
-**Goal:** Use analytics and ML to understand which factors influence student performance and identify at-risk students.
-
-**Highlights:**
-- Collected and cleaned student data (attendance, scores, behavior, demographics)
-- Performed **EDA** to uncover patterns, trends, and correlations in performance
-- Built **classification/regression models** (logistic regression, random forest, gradient boosting) to:
-  - Predict performance levels  
-  - Flag at-risk students
-- Used **feature importance** and interpretability techniques to identify key performance drivers
-- Created **visualizations and dashboards** to present insights to non-technical audiences (faculty/administration)
-
-**Tech Stack:**
-- Python, pandas, NumPy  
-- scikit-learn, Matplotlib, Seaborn  
-- Jupyter Notebooks  
-
----
-
-## 📚 Research & Publications
-
-### 📌 Gastric Carcinoma Detection using Hybrid Model based Transfer Learning  
-
-**Journal:** International Journal of Scientific Research in Engineering and Management (IJSREM)  
-**Date:** June 6, 2023  
-**Link:** https://ijsrem.com/download/gastric-carinoma-detection-using-hybrid-model-based-tl/
-
-**Summary:**
-- Designed a **hybrid deep learning system** for early detection of gastric carcinoma using medical imaging
-- Leveraged **pre-trained CNNs and transfer learning** for robust feature extraction
-- Applied advanced **image preprocessing and data augmentation** to improve robustness and generalization
-- Evaluated the model using **accuracy, AUC-ROC, and cross-validation**, demonstrating strong predictive performance
-- Showcased how **AI can assist early diagnosis and support clinical decision-making**
-
----
-
-### 📌 3D Face Modelling of Human Faces using GANs  
-
-**Journal:** International Research Journal of Engineering and Technology (IRJET)  
-**Date:** August 8, 2022  
-**Link:** https://www.irjet.net/archives/V9/i8/IRJET-V9I841.pdf
-
-**Summary:**
-- Proposed a **GAN-based framework** to generate realistic **3D face models** from limited 2D data
-- Combined **CNN-based feature extraction** with **generative adversarial networks** to preserve identity and structure
-- Evaluated quality using **Inception Score, reconstruction error, and classification accuracy**
-- Achieved better **realism, identity preservation, and structural consistency** than traditional CNN/RNN approaches
-- Demonstrated the potential of **generative AI** in advanced **computer vision** applications
-
----
-
-## 💼 Experience
-
-### 🧪 Data Scientist — Inmar Intelligence  
-**Oct 2023 – Jul 2024**
-
-- Worked on **data-driven analytics projects** using large-scale business and consumer datasets to support decision-making  
-- Cleaned, preprocessed, and transformed **structured data** using **Python (pandas, NumPy)** and **SQL** to uncover trends and anomalies  
-- Developed and evaluated **machine learning models** (classification and regression) to improve prediction accuracy for business use cases  
-- Designed **dashboards and visualizations** (Power BI / Tableau / Matplotlib / Seaborn) to communicate insights clearly to stakeholders  
-- Contributed to **end-to-end analytics pipelines**, integrating ingestion, feature engineering, modeling, and evaluation for scalable data products  
-
----
-
-### 📊 Data Analyst Intern — Evolv Technologies  
-**May 2022 – Oct 2023**
-
-- Gathered, cleaned, and validated data from multiple business systems to create **high-quality, analysis-ready datasets**  
-- Wrote and optimized **SQL queries** for data extraction, transformation, and aggregation to support reports and analytics  
-- Performed **exploratory data analysis (EDA)** and descriptive statistics to identify patterns, trends, and anomalies  
-- Built **interactive dashboards and reports** in **Power BI / Tableau**, enabling stakeholders to track KPIs and monitor performance  
-- Collaborated with Data Scientists and Engineers to prepare **feature-rich datasets** for ML and advanced analytics projects  
-- Communicated insights via **visual summaries, charts, and presentations**, turning technical findings into actionable business recommendations  
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MSrikar7&show_icons=true&theme=tokyonight&hide_border=false" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MSrikar7&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
-</p>
-
----
-
-## 📬 Let’s Connect
-
-- 💼 LinkedIn: [www.linkedin.com/in/srikar-manikonda](https://www.linkedin.com/in/srikar-manikonda)  
-- ✉️ Email: **srikarmanikonda4@gmail.com**  
-- 📄 Resume: `Add your resume link here once hosted (Google Drive / portfolio site)`  
-
-> ⭐ If you like my work, feel free to star or fork any repo — always happy to connect and collaborate!
+  <script src="script.js"></script>
+</body>
+</html>
