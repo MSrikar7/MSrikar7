@@ -71,7 +71,4 @@ Performed EDA, SQL reporting, and BI dashboarding to enable data-informed decisi
 
 ---
 
-### 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MSrikar7&show_icons=true&theme=tokyonight)
 
