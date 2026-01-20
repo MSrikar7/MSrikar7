@@ -19,7 +19,7 @@ GAN-based model that animates static facial images with identity preservation.
 #### **Gastric Carcinoma Detection — Research**
 Hybrid CNN + GAN architecture for early cancer detection using medical imaging.
 🔹 Focus: Medical Imaging, GANs, Research, Transfer Learning
-📄 Publication: (Insert link)
+📄 Publication: https://ijsrem.com/download/gastric-carinoma-detection-using-hybrid-model-based-tl/
 
 ---
 
@@ -54,7 +54,7 @@ Performed EDA, SQL reporting, and BI dashboarding to enable data-informed decisi
 ### 📫 Connect With Me
 
 🔗 LinkedIn: https://linkedin.com/in/srikar-manikonda  
-💻 Portfolio: (Insert link)  
+💻 Portfolio: https://msrikar7.github.io/  
 📧 Email: srikarmanikonda9@gmail.com  
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
