@@ -57,6 +57,7 @@ Performed EDA, SQL reporting, and BI dashboarding to enable data-informed decisi
 💻 Portfolio: https://msrikar7.github.io/  
 📧 Email: srikarmanikonda9@gmail.com  
 
+<!--
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
@@ -67,6 +68,8 @@ Performed EDA, SQL reporting, and BI dashboarding to enable data-informed decisi
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat&logo=azure-devops&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+-->
 
 
 ---
