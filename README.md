@@ -1,77 +1,73 @@
 # Hi, I'm Venkata Srikar Manikonda 👋
 
-Data Scientist & Data Analyst with experience building ML models, analytics workflows, and dashboards that turn data into decisions. I work end-to-end across data pipelines, modeling, visualization, and cloud environments, and I’m currently exploring LLM-based learning systems and computer vision research.
+### Software Engineer | Backend Systems | AI Voice Production
+
+I build backend applications, REST APIs, and AI-powered systems using **Java, Python, Spring Boot, and React**. I'm especially interested in **audio technologies, neural speech synthesis, distributed systems, performance optimization, and software reliability**.
+
+My work spans service integration, debugging, automated validation, and performance profiling. Recently, I've been building an audiobook voice-production pipeline and a local audiobook discovery and listening application.
 
 ---
 
-### 🚀 Featured Projects
+## 🎧 Featured Engineering Project
 
-#### **AI Study Buddy — Real-Time LLM Learning Assistant**
-Interactive study assistant using LLM inference, modular backend routing, and session state.
-🔹 Focus: LLM UX, tutoring behavior, inference pipeline
-📦 Repo: https://github.com/MSrikar7/study-buddy-main
+### [Neural Audiobook Voice Production Pipeline](https://github.com/MSrikar7/neural-audiobook-voice-production)
+**Python · Piper TTS · ONNX Runtime · FFmpeg · FastAPI · SQLite**
 
-#### **Latent Image Animator (LIA) — GAN Motion Transfer**
-GAN-based model that animates static facial images with identity preservation.
-🔹 Focus: Computer Vision, GANs, Transfer Learning
-📦 Repo: https://github.com/MSrikar7/Latent-image-animator-LIA
+A local speech-production pipeline that synthesizes narration, tracks processing jobs, applies audio post-processing, and checks generated WAV files for silence and clipping.
 
-#### **Gastric Carcinoma Detection — Research**
-Hybrid CNN + GAN architecture for early cancer detection using medical imaging.
-🔹 Focus: Medical Imaging, GANs, Research, Transfer Learning
-📄 Publication: https://ijsrem.com/download/gastric-carinoma-detection-using-hybrid-model-based-tl/
+- **68.42% average reduction in processing time** across three local benchmark runs, using a persistent ONNX model rather than restarting Piper for every job.
+- **3.29× average throughput speedup** in those sequential 20-job comparisons.
+- Job tracking, audio validation, benchmark scripts, and architecture documentation for reproducible testing.
 
----
+> Benchmarks were measured locally and compare model lifecycle strategies; they are not production-load or concurrent-user performance claims.
 
-### 🛠️ Technical Skills
+## 🛠️ Additional Projects
 
-**Languages:** Python · SQL · Java · JavaScript · C/C++ · R  
-**ML/AI:** scikit-learn · TensorFlow · PyTorch · GANs · Transfer Learning · Model Evaluation  
-**Analytics & BI:** Power BI · Tableau · KPI Dashboards · A/B Testing  
-**Data Engineering:** MySQL · PostgreSQL · MongoDB · ETL Pipelines · Data Warehousing  
-**Cloud & MLOps:** AWS · Azure · GCP · Docker · CI/CD · Linux  
-**Software Engineering:** REST APIs · OAuth · Microservices · OOP · Data Structures & Algorithms  
-**Domains:** ML · Analytics · Data Pipelines · Product Insights
+### Audiobook Discovery & Listening Platform — Local Development
+**Java 21 · Spring Boot · React · Redis · Kafka**
 
----
+Building and testing a full-stack audiobook discovery application with REST APIs, catalog search, browser playback, and listening-progress workflows. The local project uses a **100,000-record synthetic catalog** for development and search experiments. Infrastructure and end-to-end performance benchmarks are still in progress.
 
-### 💼 Experience
+*The current version is not yet published in a dedicated GitHub repository.*
 
-**Data Scientist — Inmar Intelligence** (2023–2024)  
-Built ML models, analytics workflows, feature sets, and KPI dashboards for product & business teams.
+### [AI Study Buddy — LLM Learning Assistant](https://github.com/MSrikar7/study-buddy-main)
+An interactive learning assistant exploring LLM inference, backend routing, and conversational session state.
 
-**Data Analyst Intern — Inmar Intelligence** (2022–2023)  
-Performed EDA, SQL reporting, and BI dashboarding to enable data-informed decisions.
+### [Latent Image Animator (LIA)](https://github.com/MSrikar7/Latent-image-animator-LIA)
+Computer vision exploration of GAN-based image animation and motion transfer.
 
 ---
 
-### 📚 Research & Publications
+## 💻 Technical Skills
 
-- Gastric Carcinoma Detection using Hybrid Model (CNN + GAN). Published in IJSREM.
+**Languages:** Java · Python · JavaScript · TypeScript · SQL · C/C++
 
----
+**Backend & Software Engineering:** Spring Boot · REST APIs · Object-Oriented Programming · Microservices · Debugging · Code Reviews · Agile/Scrum · Automated Testing · CI/CD · Git
 
-### 📫 Connect With Me
+**Distributed Systems & Cloud:** Kafka · Redis · Docker · AWS · Azure · MySQL · PostgreSQL · Amazon Redshift
 
-🔗 LinkedIn: https://linkedin.com/in/srikar-manikonda  
-💻 Portfolio: https://msrikar7.github.io/  
-📧 Email: srikarmanikonda9@gmail.com  
+**AI & Audio:** Piper TTS · ONNX Runtime · FFmpeg · Neural Speech Synthesis · Waveform Validation · Performance Benchmarking
 
-<!--
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=power-bi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat&logo=azure-devops&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
--->
-
+**Frontend & Observability:** React · Structured Logging · Application Metrics · Monitoring Dashboards
 
 ---
 
+## 💼 Engineering Experience
 
+**Honeywell — Software Engineer Intern** (Aug 2025 – May 2026)  
+Worked on Python backend services, internal integrations, monitoring dashboards, and defect resolution. Used debugging, validation, query optimization, and collaborative Agile development to improve software performance and maintainability.
+
+**Inmar Intelligence — Software Engineer** (May 2022 – Jul 2024)  
+Worked on Python backend services, REST API integrations, reusable SQL components, and automated validation, with an emphasis on service diagnostics and operational reliability.
+
+---
+
+## 🔬 Research
+
+**Gastric Carcinoma Detection using Hybrid Model (CNN + GAN)** — [Publication](https://ijsrem.com/download/gastric-carinoma-detection-using-hybrid-model-based-tl/)
+
+---
+
+## 📬 Connect
+
+[LinkedIn](https://www.linkedin.com/in/srikar-manikonda/) · [Portfolio](https://msrikar7.github.io/) · [Email](mailto:srikarmanikonda9@gmail.com)
