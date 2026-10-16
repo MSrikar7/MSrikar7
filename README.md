@@ -8,7 +8,7 @@ My work spans service integration, debugging, automated validation, and performa
 
 ---
 
-## 🎧 Featured Engineering Project
+## 🎧 Featured Software Engineering Projects
 
 ### [Neural Audiobook Voice Production Pipeline](https://github.com/MSrikar7/neural-audiobook-voice-production)
 **Python · Piper TTS · ONNX Runtime · FFmpeg · FastAPI · SQLite**
@@ -21,14 +21,18 @@ A local speech-production pipeline that synthesizes narration, tracks processing
 
 > Benchmarks were measured locally and compare model lifecycle strategies; they are not production-load or concurrent-user performance claims.
 
+### [Audiobook Discovery & Listening Platform](https://github.com/MSrikar7/audiobook-discovery-listening-platform)
+**Java 21 · Spring Boot 3 · React · Redis · Kafka · Docker**
+
+Published the source code for a full-stack local audiobook discovery prototype with REST APIs, an inverted-index catalog search, Redis cache-aside logic, a browser audio player, and listening-progress updates.
+
+- **10,000 synthetic catalog records by default**, configurable for local experiments with **100,000 records**.
+- Implemented five-minute Redis query caching with local index fallback and sequence-aware in-memory listening-progress tracking.
+- Added best-effort Kafka progress-event publishing and standalone Java domain assertions for catalog and playback-progress logic.
+
+> **Current scope:** Local prototype. The generated MP3 preview files are not yet in the GitHub repository, and Redis/Kafka end-to-end performance has not been independently verified. The demos do not contain full audiobooks.
+
 ## 🛠️ Additional Projects
-
-### Audiobook Discovery & Listening Platform — Local Development
-**Java 21 · Spring Boot · React · Redis · Kafka**
-
-Building and testing a full-stack audiobook discovery application with REST APIs, catalog search, browser playback, and listening-progress workflows. The local project uses a **100,000-record synthetic catalog** for development and search experiments. Infrastructure and end-to-end performance benchmarks are still in progress.
-
-*The current version is not yet published in a dedicated GitHub repository.*
 
 ### [AI Study Buddy — LLM Learning Assistant](https://github.com/MSrikar7/study-buddy-main)
 An interactive learning assistant exploring LLM inference, backend routing, and conversational session state.
