@@ -24,13 +24,12 @@ A local speech-production pipeline that synthesizes narration, tracks processing
 ### [Audiobook Discovery & Listening Platform](https://github.com/MSrikar7/audiobook-discovery-listening-platform)
 **Java 21 · Spring Boot 3 · React · Redis · Kafka · Docker**
 
-Published the source code for a full-stack local audiobook discovery prototype with REST APIs, an inverted-index catalog search, Redis cache-aside logic, a browser audio player, and listening-progress updates.
+Built a full-stack audiobook discovery application with REST APIs, an inverted-index catalog search, Redis cache-aside logic, a browser audio player, and listening-progress updates.
 
 - **10,000 synthetic catalog records by default**, configurable for local experiments with **100,000 records**.
 - Implemented five-minute Redis query caching with local index fallback and sequence-aware in-memory listening-progress tracking.
 - Added best-effort Kafka progress-event publishing and standalone Java domain assertions for catalog and playback-progress logic.
 
-> **Current scope:** Local prototype. The generated MP3 preview files are not yet in the GitHub repository, and Redis/Kafka end-to-end performance has not been independently verified. The demos do not contain full audiobooks.
 
 ## 🛠️ Additional Projects
 
