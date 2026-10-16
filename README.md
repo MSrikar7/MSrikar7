@@ -19,8 +19,6 @@ A local speech-production pipeline that synthesizes narration, tracks processing
 - **3.29× average throughput speedup** in those sequential 20-job comparisons.
 - Job tracking, audio validation, benchmark scripts, and architecture documentation for reproducible testing.
 
-> Benchmarks were measured locally and compare model lifecycle strategies; they are not production-load or concurrent-user performance claims.
-
 ### [Audiobook Discovery & Listening Platform](https://github.com/MSrikar7/audiobook-discovery-listening-platform)
 **Java 21 · Spring Boot 3 · React · Redis · Kafka · Docker**
 
